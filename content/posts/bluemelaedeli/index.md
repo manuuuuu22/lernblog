@@ -7,6 +7,8 @@ tags = ["Blumen", "Laden"]
 image = "bluemelade-1-.png"
 description = "Wir haben unsere erste Webseite veröffentlicht. Dies für ein Blumenladen aus der Region"
 +++
+# Bluemelädeli
+
 Wir haben eine Website für einen Blumenladen erstellt. Wir haben mit sehr vielen Bilder gearbeitet.
 
 ![]()
