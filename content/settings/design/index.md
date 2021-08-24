@@ -2,7 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/pexels-alex-amorales-909907.jpg"
 color = ""
 +++
-
