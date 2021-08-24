@@ -5,8 +5,8 @@ draft = false
 pinned = false
 tags = ["Blumen", "Laden"]
 image = "bluemelade-1-.png"
-description = "Wir haben eine Website für einen Blumenladen erstellt. Wir haben mit sehr vielen Bilder gearbeitet."
+description = "Wir haben unsere erste Webseite veröffentlicht. Dies für ein Blumenladen aus der Region"
 +++
-# Blumenladen
+Wir haben eine Website für einen Blumenladen erstellt. Wir haben mit sehr vielen Bilder gearbeitet.
 
 ![]()
