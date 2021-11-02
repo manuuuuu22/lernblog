@@ -1,5 +1,5 @@
 +++
-title = "WEB Lektion"
+title = "Blogeintrag vom 26.10.2021"
 date = "2021-10-26"
 draft = false
 pinned = false
